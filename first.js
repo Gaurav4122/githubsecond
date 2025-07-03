@@ -4,3 +4,7 @@ console.log("game is added successful")
 function hs(){
     console.log("Hello gaurav how are you and where are you from")
 }
+
+function gauravs(){
+    console.log("sdslfd;;l")
+}
